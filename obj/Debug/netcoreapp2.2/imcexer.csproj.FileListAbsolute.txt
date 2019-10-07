@@ -1,0 +1,11 @@
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\bin\Debug\netcoreapp2.2\imcexer.deps.json
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\bin\Debug\netcoreapp2.2\imcexer.runtimeconfig.json
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\bin\Debug\netcoreapp2.2\imcexer.runtimeconfig.dev.json
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\bin\Debug\netcoreapp2.2\imcexer.dll
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\bin\Debug\netcoreapp2.2\imcexer.pdb
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\obj\Debug\netcoreapp2.2\imcexer.csprojAssemblyReference.cache
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\obj\Debug\netcoreapp2.2\imcexer.csproj.CoreCompileInputs.cache
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\obj\Debug\netcoreapp2.2\imcexer.AssemblyInfoInputs.cache
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\obj\Debug\netcoreapp2.2\imcexer.AssemblyInfo.cs
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\obj\Debug\netcoreapp2.2\imcexer.dll
+C:\Users\TatianaCardosoP\Desktop\c#\imcexer\obj\Debug\netcoreapp2.2\imcexer.pdb
